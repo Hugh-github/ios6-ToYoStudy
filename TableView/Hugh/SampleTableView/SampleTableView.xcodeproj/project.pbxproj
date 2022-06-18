@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		723A8534285D60300004327E /* FoodType+Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 723A8533285D60300004327E /* FoodType+Food.swift */; };
+		72B8B14A285D5702009127DC /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B8B149285D5702009127DC /* CustomTableViewCell.swift */; };
 		90EB84AD285D538600AAB6F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90EB84AC285D538600AAB6F5 /* AppDelegate.swift */; };
 		90EB84AF285D538600AAB6F5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90EB84AE285D538600AAB6F5 /* SceneDelegate.swift */; };
 		90EB84B1285D538600AAB6F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90EB84B0285D538600AAB6F5 /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		723A8533285D60300004327E /* FoodType+Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FoodType+Food.swift"; sourceTree = "<group>"; };
+		72B8B149285D5702009127DC /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		90EB84A9285D538600AAB6F5 /* SampleTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90EB84AC285D538600AAB6F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90EB84AE285D538600AAB6F5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,10 +106,12 @@
 				90EB84AC285D538600AAB6F5 /* AppDelegate.swift */,
 				90EB84AE285D538600AAB6F5 /* SceneDelegate.swift */,
 				90EB84B0285D538600AAB6F5 /* ViewController.swift */,
+				72B8B149285D5702009127DC /* CustomTableViewCell.swift */,
 				90EB84B2285D538600AAB6F5 /* Main.storyboard */,
 				90EB84B5285D538700AAB6F5 /* Assets.xcassets */,
 				90EB84B7285D538700AAB6F5 /* LaunchScreen.storyboard */,
 				90EB84BA285D538700AAB6F5 /* Info.plist */,
+				723A8533285D60300004327E /* FoodType+Food.swift */,
 			);
 			path = SampleTableView;
 			sourceTree = "<group>";
@@ -260,7 +266,9 @@
 			files = (
 				90EB84B1285D538600AAB6F5 /* ViewController.swift in Sources */,
 				90EB84AD285D538600AAB6F5 /* AppDelegate.swift in Sources */,
+				72B8B14A285D5702009127DC /* CustomTableViewCell.swift in Sources */,
 				90EB84AF285D538600AAB6F5 /* SceneDelegate.swift in Sources */,
+				723A8534285D60300004327E /* FoodType+Food.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
